@@ -1,0 +1,3 @@
+/home/hoseok/DataStructure/week2/p3015/cmake-build-debug/CMakeFiles/p3015.dir
+/home/hoseok/DataStructure/week2/p3015/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hoseok/DataStructure/week2/p3015/cmake-build-debug/CMakeFiles/rebuild_cache.dir
